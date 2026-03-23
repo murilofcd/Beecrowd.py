@@ -16,7 +16,6 @@ A saída deve ser uma mensagem conforme exemplo abaixo.
 
 valor = float(input())
 
-# Verificação dos intervalos
 if 0 <= valor <= 25:
     print("Intervalo [0,25]")
 elif 25 < valor <= 50:
